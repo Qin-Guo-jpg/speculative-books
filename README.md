@@ -1,2 +1,2 @@
 # speculative-books
-本repository搜集本人OCR处理后的一些投机交易书籍
+这个repository搜集本人OCR处理后的一些投机交易书籍
